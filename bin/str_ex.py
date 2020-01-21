@@ -9,3 +9,5 @@ ff = r'c:\newfolder\test.py' #raw string
 print(a,b,c,d,e,f,ff)
 g = 'WEL COME'
 print(g[1:6])
+l1 = [1,2,3,4,42]
+print(l1.__eq__(g))

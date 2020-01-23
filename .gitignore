@@ -11,7 +11,7 @@ training/
 *.o
 *.so
 .vscode
-
+.ipynb_checkpoints
 *.so
 
 # Packages #
